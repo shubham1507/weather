@@ -11,4 +11,4 @@ This is copyright
 
 Copyright Session extended
 
-please fork this repo and raise PR for any changes
+We are here to test Automattic merges   
