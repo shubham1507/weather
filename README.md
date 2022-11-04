@@ -9,6 +9,6 @@ This is copyright
 
 ### Copyright Session extended
 
-Copyright Session extended
+Lets check merge conflict
 
-We are here to test Automattic merges   
+to validate the merge of this branch
