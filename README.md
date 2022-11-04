@@ -9,6 +9,6 @@ This is copyright
 
 ### Copyright Session extended
 
-Copyright Session extended
+now conflict will catch
 
-We are here to test Automattic merges   
+same way we need to tackle
