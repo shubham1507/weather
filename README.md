@@ -6,3 +6,7 @@
 ### Copyright Session
 
 This is copyright
+
+### Copyright Session extended
+
+Copyright Session extended
